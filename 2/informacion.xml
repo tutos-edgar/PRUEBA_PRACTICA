@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<informacion>
+    <sistemas>
+        <nombre_sistema>
+        </nombre_sistema>
+        <localizacion_sistema>
+        </localizacion_sistema>
+        <num_tarjeta>
+        </num_tarjeta>
+        <id_cliente>
+        </id_cliente>
+    </sistemas>
+</informacion>
